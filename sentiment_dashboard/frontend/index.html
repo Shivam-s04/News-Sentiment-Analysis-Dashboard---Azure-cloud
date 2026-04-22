@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Sentiment Dashboard</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>tailwind.config = { darkMode: 'class' }</script>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-900 text-white font-sans min-h-screen p-8">
+
+    <div class="max-w-5xl mx-auto">
+        
+        <header class="mb-10 text-center">
+            <h1 class="text-4xl font-bold mb-4 text-blue-400">Real-Time Sentiment Intelligence</h1>
+            
+            <p id="metaInfo" class="text-gray-400 text-sm mb-6 hidden"></p>
+            
+            <div class="flex flex-col items-center gap-2 mb-6">
+                <label for="limitSlider" class="text-gray-400 text-sm font-semibold tracking-wide">
+                    Articles to Analyze: <span id="limitValue" class="text-blue-400 text-lg ml-1">5</span>
+                </label>
+                <input type="range" id="limitSlider" min="1" max="15" value="5" 
+                       class="w-64 cursor-pointer accent-blue-500" 
+                       oninput="document.getElementById('limitValue').innerText = this.value">
+            </div>
+            
+            <div class="flex justify-center gap-4">
+                <input type="text" id="keywordInput" placeholder="Enter a topic (e.g., Azure, Tesla, AI)..." 
+                       class="px-4 py-2 rounded-lg text-black w-1/2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                
+                <button onclick="analyzeSentiment()" id="analyzeBtn"
+                        class="bg-blue-600 hover:bg-blue-500 px-6 py-2 rounded-lg font-semibold transition-all">
+                    Analyze Live Data
+                </button>
+                
+                <button onclick="exportToCSV()" id="exportBtn"
+                        class="bg-gray-700 hover:bg-gray-600 border border-gray-600 px-4 py-2 rounded-lg font-semibold transition-all flex items-center gap-2">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                    CSV
+                </button>
+            </div>
+            
+            <p id="loadingMsg" class="text-yellow-400 mt-4 hidden animate-pulse">Running Enterprise Pipeline... Please wait.</p>
+            <p id="errorMsg" class="text-red-400 mt-4 hidden"></p>
+        </header>
+
+        <div id="dashboard" class="grid grid-cols-1 md:grid-cols-3 gap-6 hidden">
+            
+            <div class="bg-gray-800 p-6 rounded-xl shadow-lg flex flex-col justify-center items-center hover:ring-1 ring-blue-500 transition-all">
+                <h2 class="text-gray-400 text-sm uppercase tracking-wider mb-2">Overall Mood</h2>
+                <div id="mainScore" class="text-6xl font-black mb-2">-</div>
+                <div id="mainLabel" class="text-xl font-medium px-4 py-1 rounded-full">-</div>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-xl shadow-lg md:col-span-2 flex justify-center h-64 hover:ring-1 ring-blue-500 transition-all">
+                <canvas id="polarityChart"></canvas>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-xl shadow-lg md:col-span-3 hover:ring-1 ring-blue-500 transition-all">
+                <h2 class="text-gray-400 text-sm uppercase tracking-wider mb-4">Ingested Headlines</h2>
+                <ul id="headlineList" class="space-y-3">
+                    </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

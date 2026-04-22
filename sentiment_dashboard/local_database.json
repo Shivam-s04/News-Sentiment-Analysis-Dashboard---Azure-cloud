@@ -1,0 +1,760 @@
+[
+    {
+        "search_term": "Electric Vehicles",
+        "average_score": 28.44,
+        "positive_score": 28.44,
+        "neutral_score": 61.64,
+        "negative_score": 9.92,
+        "label": "Negative",
+        "headlines": [
+            {
+                "title": "Searches for electric vehicles on DoneDeal Cars more than double since Iran war",
+                "source": "TheJournal.ie",
+                "url": "https://www.thejournal.ie/searches-for-electric-vehicles-on-donedeal-cars-more-than-double-since-iran-war-7013379-Apr2026/"
+            },
+            {
+                "title": "Electric vehicles pass tipping point, breaking the link with oil prices",
+                "source": "The Conversation Africa",
+                "url": "https://theconversation.com/electric-vehicles-pass-tipping-point-breaking-the-link-with-oil-prices-280655"
+            }
+        ],
+        "timestamp": "2026-04-18T09:35:52.651638+00:00",
+        "id": "6c4fdef7-2c25-4df1-b7ec-73fccf3109e2"
+    },
+    {
+        "search_term": "Artificial Intelligence",
+        "average_score": 72.02,
+        "positive_score": 72.02,
+        "neutral_score": 11.79,
+        "negative_score": 16.2,
+        "label": "Positive",
+        "headlines": [
+            {
+                "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46d60202-ef90-46f7-8579-54be711e4f8c"
+            },
+            {
+                "title": "Daily Deal: The Ultimate Python & Artificial Intelligence Certification Bundle",
+                "source": "Techdirt",
+                "url": "https://www.techdirt.com/2026/04/16/daily-deal-the-ultimate-python-artificial-intelligence-certification-bundle-3/"
+            },
+            {
+                "title": "Artificial Intelligence in Education Needs Design, Not Devotion",
+                "source": "Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202604/artificial-intelligence-in-education-needs-design-not-devotion"
+            },
+            {
+                "title": "Prediction: This Artificial Intelligence (AI) Stock That Has Jumped by Over 5x in a Year Can Still Soar by 66% or More",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed5b58c0-8dba-4b70-84c2-b5fb02bba022"
+            }
+        ],
+        "timestamp": "2026-04-18T11:09:33.330265+00:00",
+        "id": "3032b281-df67-44f6-ae85-8e639a013e7a"
+    },
+    {
+        "search_term": "Artificial Intelligence ",
+        "average_score": 60.93,
+        "positive_score": 60.93,
+        "neutral_score": 13.15,
+        "negative_score": 25.92,
+        "label": "Positive",
+        "headlines": [
+            {
+                "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46d60202-ef90-46f7-8579-54be711e4f8c"
+            },
+            {
+                "title": "Daily Deal: The Ultimate Python & Artificial Intelligence Certification Bundle",
+                "source": "Techdirt",
+                "url": "https://www.techdirt.com/2026/04/16/daily-deal-the-ultimate-python-artificial-intelligence-certification-bundle-3/"
+            },
+            {
+                "title": "Artificial Intelligence in Education Needs Design, Not Devotion",
+                "source": "Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202604/artificial-intelligence-in-education-needs-design-not-devotion"
+            },
+            {
+                "title": "Prediction: This Artificial Intelligence (AI) Stock That Has Jumped by Over 5x in a Year Can Still Soar by 66% or More",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed5b58c0-8dba-4b70-84c2-b5fb02bba022"
+            }
+        ],
+        "timestamp": "2026-04-18T11:45:11.470603+00:00",
+        "id": "acfaec6d-17ab-4b51-b12e-5c2c0f39982a"
+    },
+    {
+        "search_term": "Artificial Intelligence",
+        "average_score": 41.96,
+        "positive_score": 41.96,
+        "neutral_score": 27.04,
+        "negative_score": 30.99,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46d60202-ef90-46f7-8579-54be711e4f8c",
+                "score": 46.11,
+                "label": "Neutral"
+            },
+            {
+                "title": "Daily Deal: The Ultimate Python & Artificial Intelligence Certification Bundle",
+                "source": "Techdirt",
+                "url": "https://www.techdirt.com/2026/04/16/daily-deal-the-ultimate-python-artificial-intelligence-certification-bundle-3/",
+                "score": 10.43,
+                "label": "Negative"
+            },
+            {
+                "title": "Artificial Intelligence in Education Needs Design, Not Devotion",
+                "source": "Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202604/artificial-intelligence-in-education-needs-design-not-devotion",
+                "score": 68.94,
+                "label": "Positive"
+            },
+            {
+                "title": "Prediction: This Artificial Intelligence (AI) Stock That Has Jumped by Over 5x in a Year Can Still Soar by 66% or More",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed5b58c0-8dba-4b70-84c2-b5fb02bba022",
+                "score": 42.38,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-18T12:11:11.586313+00:00",
+        "id": "b5210c10-5b9a-42fc-9a36-6a3790d97ad9"
+    },
+    {
+        "search_term": "AI",
+        "average_score": 30.58,
+        "positive_score": 30.58,
+        "neutral_score": 47.19,
+        "negative_score": 22.23,
+        "label": "Negative",
+        "articles": [
+            {
+                "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+                "source": "Wired",
+                "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+                "score": 18.19,
+                "label": "Neutral"
+            },
+            {
+                "title": "Canva\u2019s AI 2.0 update goes all in on prompt-powered design tools",
+                "source": "The Verge",
+                "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+                "score": 42.98,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-18T12:15:16.907761+00:00",
+        "id": "99f6e34c-f72e-4fc3-abd3-b0705282c9f3"
+    },
+    {
+        "search_term": "AI",
+        "average_score": 49.29,
+        "positive_score": 49.29,
+        "neutral_score": 29.0,
+        "negative_score": 21.71,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+                "source": "Wired",
+                "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+                "score": 54.82,
+                "label": "Neutral"
+            },
+            {
+                "title": "Canva\u2019s AI 2.0 update goes all in on prompt-powered design tools",
+                "source": "The Verge",
+                "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+                "score": 28.64,
+                "label": "Neutral"
+            },
+            {
+                "title": "\u2018You Can\u2019t Miss What Our Values Are\u2019: Before Its Pivot to AI, Allbirds Sounded Very Different",
+                "source": "Gizmodo.com",
+                "url": "https://gizmodo.com/you-cant-miss-what-our-values-are-before-its-pivot-to-ai-allbirds-sounded-very-different-2000747152",
+                "score": 64.41,
+                "label": "Positive"
+            }
+        ],
+        "timestamp": "2026-04-18T12:15:40.791986+00:00",
+        "id": "c14f7bfd-32e0-44b4-aee8-b4995bef39ef"
+    },
+    {
+        "search_term": "Artificial Intelligence",
+        "average_score": 41.14,
+        "positive_score": 41.14,
+        "neutral_score": 31.07,
+        "negative_score": 27.78,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46d60202-ef90-46f7-8579-54be711e4f8c",
+                "score": 30.3,
+                "label": "Neutral"
+            },
+            {
+                "title": "Daily Deal: The Ultimate Python & Artificial Intelligence Certification Bundle",
+                "source": "Techdirt",
+                "url": "https://www.techdirt.com/2026/04/16/daily-deal-the-ultimate-python-artificial-intelligence-certification-bundle-3/",
+                "score": 32.28,
+                "label": "Negative"
+            },
+            {
+                "title": "Artificial Intelligence in Education Needs Design, Not Devotion",
+                "source": "Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202604/artificial-intelligence-in-education-needs-design-not-devotion",
+                "score": 64.36,
+                "label": "Positive"
+            },
+            {
+                "title": "Prediction: This Artificial Intelligence (AI) Stock That Has Jumped by Over 5x in a Year Can Still Soar by 66% or More",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed5b58c0-8dba-4b70-84c2-b5fb02bba022",
+                "score": 67.26,
+                "label": "Positive"
+            },
+            {
+                "title": "Dani Rodrik: Artificial intelligence was meant to assist human work, not replace our thinking",
+                "source": "Livemint",
+                "url": "https://www.livemint.com/opinion/online-views/dani-rodrik-artificial-intelligence-human-work-thinking-cognition-jobs-brain-atrophy-openai-anthropic-11776319941229.html",
+                "score": 11.49,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-18T12:15:53.519342+00:00",
+        "id": "68bf0861-9589-4865-8105-f26722f725fe"
+    },
+    {
+        "search_term": "Artificial Intelligence",
+        "average_score": 45.67,
+        "positive_score": 45.67,
+        "neutral_score": 41.36,
+        "negative_score": 12.97,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46d60202-ef90-46f7-8579-54be711e4f8c",
+                "score": 20.18,
+                "label": "Neutral"
+            },
+            {
+                "title": "Daily Deal: The Ultimate Python & Artificial Intelligence Certification Bundle",
+                "source": "Techdirt",
+                "url": "https://www.techdirt.com/2026/04/16/daily-deal-the-ultimate-python-artificial-intelligence-certification-bundle-3/",
+                "score": 47.83,
+                "label": "Neutral"
+            },
+            {
+                "title": "Artificial Intelligence in Education Needs Design, Not Devotion",
+                "source": "Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202604/artificial-intelligence-in-education-needs-design-not-devotion",
+                "score": 40.87,
+                "label": "Neutral"
+            },
+            {
+                "title": "Prediction: This Artificial Intelligence (AI) Stock That Has Jumped by Over 5x in a Year Can Still Soar by 66% or More",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed5b58c0-8dba-4b70-84c2-b5fb02bba022",
+                "score": 54.86,
+                "label": "Neutral"
+            },
+            {
+                "title": "Dani Rodrik: Artificial intelligence was meant to assist human work, not replace our thinking",
+                "source": "Livemint",
+                "url": "https://www.livemint.com/opinion/online-views/dani-rodrik-artificial-intelligence-human-work-thinking-cognition-jobs-brain-atrophy-openai-anthropic-11776319941229.html",
+                "score": 64.31,
+                "label": "Positive"
+            },
+            {
+                "title": "This AI Chipmaker's Profit Just Surged 58% (Hint: It's Not Nvidia). 3 Reasons to Buy This Top Artificial Intelligence Stock Right Now",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3bd37172-e16b-4a96-83de-5cd30d38fcef",
+                "score": 22.95,
+                "label": "Neutral"
+            },
+            {
+                "title": "SEN BERNIE SANDERS: Artificial intelligence is coming for the working class. We must fight back",
+                "source": "Fox News",
+                "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-artificial-intelligence-coming-working-class-must-fight-back-",
+                "score": 68.71,
+                "label": "Positive"
+            }
+        ],
+        "timestamp": "2026-04-18T12:16:47.149688+00:00",
+        "id": "568ff4bf-bf32-4345-b461-187bec6fcbdb"
+    },
+    {
+        "search_term": "Open AI",
+        "average_score": 3.67,
+        "positive_score": 3.67,
+        "neutral_score": 95.67,
+        "negative_score": 0.67,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Mozilla\u2019s Thunderbolt Is an Open-Source AI Client, but What Exactly Is It?",
+                "source": "Hongkiat.com",
+                "url": "https://www.hongkiat.com/blog/mozilla-thunderbolt-open-source-ai-client/",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Mozilla's MZLA Technologies Launches Thunderbolt, an Open-Source Self-Hosted Enterprise AI Client",
+                "source": "Ghacks Technology News",
+                "url": "https://www.ghacks.net/2026/04/20/mozillas-mzla-technologies-launches-thunderbolt-an-open-source-self-hosted-enterprise-ai-client/",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Verizon\u2019s Dan Schulman Tells CEOs to Be Open About AI Job Cuts",
+                "source": "pymnts.com",
+                "url": "https://www.pymnts.com/artificial-intelligence-2/2026/verizons-dan-schulman-tells-ceos-to-be-open-about-ai-job-cuts/",
+                "score": 10.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:28:26.734866+00:00",
+        "id": "b51aceaf-0272-4a7c-a7dd-fdf4c89b7ab9"
+    },
+    {
+        "search_term": "Open AI",
+        "average_score": 3.67,
+        "positive_score": 3.67,
+        "neutral_score": 95.67,
+        "negative_score": 0.67,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Mozilla\u2019s Thunderbolt Is an Open-Source AI Client, but What Exactly Is It?",
+                "source": "Hongkiat.com",
+                "url": "https://www.hongkiat.com/blog/mozilla-thunderbolt-open-source-ai-client/",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Mozilla's MZLA Technologies Launches Thunderbolt, an Open-Source Self-Hosted Enterprise AI Client",
+                "source": "Ghacks Technology News",
+                "url": "https://www.ghacks.net/2026/04/20/mozillas-mzla-technologies-launches-thunderbolt-an-open-source-self-hosted-enterprise-ai-client/",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Verizon\u2019s Dan Schulman Tells CEOs to Be Open About AI Job Cuts",
+                "source": "pymnts.com",
+                "url": "https://www.pymnts.com/artificial-intelligence-2/2026/verizons-dan-schulman-tells-ceos-to-be-open-about-ai-job-cuts/",
+                "score": 10.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:28:40.044769+00:00",
+        "id": "cdc036db-5569-4f5a-a618-0b65e6423d32"
+    },
+    {
+        "search_term": "Open AI",
+        "average_score": 3.67,
+        "positive_score": 3.67,
+        "neutral_score": 95.67,
+        "negative_score": 0.67,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Mozilla\u2019s Thunderbolt Is an Open-Source AI Client, but What Exactly Is It?",
+                "source": "Hongkiat.com",
+                "url": "https://www.hongkiat.com/blog/mozilla-thunderbolt-open-source-ai-client/",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Mozilla's MZLA Technologies Launches Thunderbolt, an Open-Source Self-Hosted Enterprise AI Client",
+                "source": "Ghacks Technology News",
+                "url": "https://www.ghacks.net/2026/04/20/mozillas-mzla-technologies-launches-thunderbolt-an-open-source-self-hosted-enterprise-ai-client/",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Verizon\u2019s Dan Schulman Tells CEOs to Be Open About AI Job Cuts",
+                "source": "pymnts.com",
+                "url": "https://www.pymnts.com/artificial-intelligence-2/2026/verizons-dan-schulman-tells-ceos-to-be-open-about-ai-job-cuts/",
+                "score": 10.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:28:45.625903+00:00",
+        "id": "a08451e7-8c85-4146-996c-4024912ec6b6"
+    },
+    {
+        "search_term": "Iran",
+        "average_score": 0.67,
+        "positive_score": 0.67,
+        "neutral_score": 63.33,
+        "negative_score": 36.0,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Can Iran and the US find middle ground to make a deal?",
+                "source": "BBC News",
+                "url": "https://www.bbc.com/news/videos/ce35qqv5pvdo",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Oil prices climb as US-Iran peace talks stall",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/oil-prices-rise-ahead-us-iran-peace-talks-in-pakistan-2026-4",
+                "score": 2.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "U.S.-Iran ceasefire expires this week with no deal in sight",
+                "source": "NPR",
+                "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
+                "score": 0.0,
+                "label": "Negative"
+            }
+        ],
+        "timestamp": "2026-04-21T17:28:55.662692+00:00",
+        "id": "0cc2aa9e-7703-4deb-a7ee-d0cb04e13d8b"
+    },
+    {
+        "search_term": "Iran",
+        "average_score": 2.89,
+        "positive_score": 2.89,
+        "neutral_score": 80.89,
+        "negative_score": 16.22,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Can Iran and the US find middle ground to make a deal?",
+                "source": "BBC News",
+                "url": "https://www.bbc.com/news/videos/ce35qqv5pvdo",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Oil prices climb as US-Iran peace talks stall",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/oil-prices-rise-ahead-us-iran-peace-talks-in-pakistan-2026-4",
+                "score": 2.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "U.S.-Iran ceasefire expires this week with no deal in sight",
+                "source": "NPR",
+                "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
+                "score": 0.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Trump says US-Iran peace talks will resume in Pakistan on Monday",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/president-donald-trump-iran-peace-talks-hormuz-2026-4",
+                "score": 3.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Iran Reasserts Control Over Strait of Hormuz as Negotiations Stall",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a745566-a04b-4256-b4f7-3f9002cf02d7",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "What Are the Sticking Points US-Iran Peace Talks?",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_341da01b-0f59-46eb-990f-45d509c03ba9",
+                "score": 0.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump says US negotiators will be in Pakistan on Monday for talks with Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45d28b77-6088-441e-b7f4-906391b5475a",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump Says Iran \u2018Got a Little Cute\u2019 During Executive Order Signing",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7d7bac8-4199-42ba-b597-75388c56a236",
+                "score": 18.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Amb. Mike Waltz says Iran doesn't 'have the cards,' will seek new deal: Full interview",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a72b6719-1f00-44d7-ac5b-3db89d0f37b4",
+                "score": 1.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:29:02.775046+00:00",
+        "id": "bb762566-35f6-42f2-9627-f015589f4efb"
+    },
+    {
+        "search_term": "Trump",
+        "average_score": 9.78,
+        "positive_score": 9.78,
+        "neutral_score": 51.67,
+        "negative_score": 38.67,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Trump says US-Iran peace talks will resume in Pakistan on Monday",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/president-donald-trump-iran-peace-talks-hormuz-2026-4",
+                "score": 3.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump says US negotiators will be in Pakistan on Monday for talks with Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45d28b77-6088-441e-b7f4-906391b5475a",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump Says Iran \u2018Got a Little Cute\u2019 During Executive Order Signing",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7d7bac8-4199-42ba-b597-75388c56a236",
+                "score": 18.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump threatens to knock out 'every single power plant' and 'every single bridge' in Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7578e3f1-9f7e-4810-8d52-45a17e3b4c9e",
+                "score": 0.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Pope Leo XIV Moves to End War of Words With President Trump",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_915920c3-ee14-42f8-b7bc-f9dfcd617edc",
+                "score": 1.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump to read Bible verse from Oval Office after feud with Pope and deleted AI image",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_afdda0b0-4915-47d3-a79b-1b415bc27aea",
+                "score": 3.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Opinion - Thanks to Trump, the Catholic vote is now up for grabs",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_53144957-c491-4de0-8784-4f649329bef3",
+                "score": 60.0,
+                "label": "Positive"
+            },
+            {
+                "title": "Trump says Energy secretary \u2018totally wrong\u2019 on gas prices not dropping to $3 until next year",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_339cc77c-02bd-4f55-9e8b-ecea94fbbc7a",
+                "score": 1.0,
+                "label": "Negative"
+            },
+            {
+                "title": "CNN anchor calls on Congress to back Trump,\u00a0officially 'authorize' Iran war",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62ba5160-8209-4abd-8044-5a8efb903adb",
+                "score": 1.0,
+                "label": "Negative"
+            }
+        ],
+        "timestamp": "2026-04-21T17:29:44.048927+00:00",
+        "id": "ed0dfb63-bf57-4d1a-af26-2ac91be7318c"
+    },
+    {
+        "search_term": "Trump",
+        "average_score": 4.6,
+        "positive_score": 4.6,
+        "neutral_score": 69.4,
+        "negative_score": 25.8,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Trump says US-Iran peace talks will resume in Pakistan on Monday",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/president-donald-trump-iran-peace-talks-hormuz-2026-4",
+                "score": 96.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump says US negotiators will be in Pakistan on Monday for talks with Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45d28b77-6088-441e-b7f4-906391b5475a",
+                "score": 98.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump Says Iran \u2018Got a Little Cute\u2019 During Executive Order Signing",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7d7bac8-4199-42ba-b597-75388c56a236",
+                "score": 71.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump threatens to knock out 'every single power plant' and 'every single bridge' in Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7578e3f1-9f7e-4810-8d52-45a17e3b4c9e",
+                "score": 88.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Pope Leo XIV Moves to End War of Words With President Trump",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_915920c3-ee14-42f8-b7bc-f9dfcd617edc",
+                "score": 70.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:34:47.772079+00:00",
+        "id": "af705fb7-2316-40b8-980f-ca6e157fad98"
+    },
+    {
+        "search_term": "Iran",
+        "average_score": 2.45,
+        "positive_score": 2.45,
+        "neutral_score": 70.91,
+        "negative_score": 26.64,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Can Iran and the US find middle ground to make a deal?",
+                "source": "BBC News",
+                "url": "https://www.bbc.com/news/videos/ce35qqv5pvdo",
+                "score": 96.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Oil prices climb as US-Iran peace talks stall",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/oil-prices-rise-ahead-us-iran-peace-talks-in-pakistan-2026-4",
+                "score": 69.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "U.S.-Iran ceasefire expires this week with no deal in sight",
+                "source": "NPR",
+                "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
+                "score": 75.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Trump says US-Iran peace talks will resume in Pakistan on Monday",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/president-donald-trump-iran-peace-talks-hormuz-2026-4",
+                "score": 96.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Iran Reasserts Control Over Strait of Hormuz as Negotiations Stall",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a745566-a04b-4256-b4f7-3f9002cf02d7",
+                "score": 94.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "What Are the Sticking Points US-Iran Peace Talks?",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_341da01b-0f59-46eb-990f-45d509c03ba9",
+                "score": 99.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump says US negotiators will be in Pakistan on Monday for talks with Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45d28b77-6088-441e-b7f4-906391b5475a",
+                "score": 98.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump Says Iran \u2018Got a Little Cute\u2019 During Executive Order Signing",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7d7bac8-4199-42ba-b597-75388c56a236",
+                "score": 71.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Amb. Mike Waltz says Iran doesn't 'have the cards,' will seek new deal: Full interview",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a72b6719-1f00-44d7-ac5b-3db89d0f37b4",
+                "score": 80.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Trump threatens to knock out 'every single power plant' and 'every single bridge' in Iran",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7578e3f1-9f7e-4810-8d52-45a17e3b4c9e",
+                "score": 88.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Stefanik fires back in heated clash with CNN's Tapper over Trump's viral Iran post",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e67707e3-ee6c-4484-ae9a-a102e563bc74",
+                "score": 59.0,
+                "label": "Negative"
+            }
+        ],
+        "timestamp": "2026-04-21T17:35:00.818431+00:00",
+        "id": "3be67b6a-4019-4f1a-bb8e-aaabb1751d4c"
+    },
+    {
+        "search_term": "Iran",
+        "average_score": 76.0,
+        "positive_score": 1.2,
+        "neutral_score": 76.0,
+        "negative_score": 22.8,
+        "label": "Neutral",
+        "articles": [
+            {
+                "title": "Can Iran and the US find middle ground to make a deal?",
+                "source": "BBC News",
+                "url": "https://www.bbc.com/news/videos/ce35qqv5pvdo",
+                "score": 96.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Oil prices climb as US-Iran peace talks stall",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/oil-prices-rise-ahead-us-iran-peace-talks-in-pakistan-2026-4",
+                "score": 69.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "U.S.-Iran ceasefire expires this week with no deal in sight",
+                "source": "NPR",
+                "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
+                "score": 75.0,
+                "label": "Negative"
+            },
+            {
+                "title": "Trump says US-Iran peace talks will resume in Pakistan on Monday",
+                "source": "Business Insider",
+                "url": "https://www.businessinsider.com/president-donald-trump-iran-peace-talks-hormuz-2026-4",
+                "score": 96.0,
+                "label": "Neutral"
+            },
+            {
+                "title": "Iran Reasserts Control Over Strait of Hormuz as Negotiations Stall",
+                "source": "Yahoo Entertainment",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a745566-a04b-4256-b4f7-3f9002cf02d7",
+                "score": 94.0,
+                "label": "Neutral"
+            }
+        ],
+        "timestamp": "2026-04-21T17:38:26.122514+00:00",
+        "id": "c484921d-124a-45d1-8905-5e0c0acb9a49"
+    }
+]

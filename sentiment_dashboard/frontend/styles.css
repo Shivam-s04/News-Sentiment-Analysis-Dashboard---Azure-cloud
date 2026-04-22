@@ -1,0 +1,21 @@
+/* Custom styling that goes beyond standard Tailwind utilities */
+
+/* Make the scrolling smooth across the whole app */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom dark-mode scrollbar for a premium feel */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #111827; /* tailwind gray-900 */
+}
+::-webkit-scrollbar-thumb {
+    background: #374151; /* tailwind gray-700 */
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #4b5563; /* tailwind gray-600 */
+}
