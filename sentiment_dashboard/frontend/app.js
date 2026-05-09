@@ -27,7 +27,7 @@ async function analyzeSentiment() {
         const data = await response.json();
         currentData = data; 
 
-        // BUG FIX: Changed 'headlines' to 'articles'
+        
         const scanDate = new Date(data.timestamp).toLocaleTimeString();
         const metaEl = document.getElementById('metaInfo');
         metaEl.innerText = `Analyzed ${data.articles.length} live articles at ${scanDate}`;

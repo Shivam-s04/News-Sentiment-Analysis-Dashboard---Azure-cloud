@@ -5,7 +5,7 @@ from models.schemas import NewsArticle
 from datetime import datetime, timedelta, timezone
 
 class NewsService:
-    """Handles all outbound communication with the NewsAPI.org service."""
+    """comm with the NewsAPI.org service."""
     
     def __init__(self):
         
@@ -24,7 +24,7 @@ class NewsService:
         params = {
             "q": search_term,
             "searchIn": "title",
-            "language": "en",
+            "language": "en",       #fixed problems , works 
             "from": two_days_ago,    #  makes sure news only 2 days old
             "sortBy": "relevancy",   # makes sure its only about topic and not random articles
             "pageSize": limit,
@@ -32,7 +32,7 @@ class NewsService:
         }
         
         try:
-            response = requests.get(self.base_url, params=params)
+            response = requests.get(self.base_url, params=params) 
             response.raise_for_status() # Raise an exception for bad status codes (4xx or 5xx)
             data = response.json()
             

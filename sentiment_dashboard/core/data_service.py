@@ -51,7 +51,7 @@ from azure.cosmos import CosmosClient, exceptions
 from models.schemas import SentimentSummary
 
 class DataService:
-    """PRODUCTION SERVICE: Connects to live Azure Cosmos DB NoSQL."""
+    """function: Connect to Azure Cosmos DB NoSQL."""
     
     def __init__(self):
         print(" Initializing LIVE Azure Cosmos DB Connection...")
@@ -61,10 +61,10 @@ class DataService:
         if not uri or not key:
             raise ValueError("CRITICAL: Missing Cosmos DB credentials in local.settings.json")
             
-        #  Authenticate with the Cloud
+        
         self.client = CosmosClient(uri, credential=key)
         
-        # set teh Database and Container
+        
         self.database_name = "SentimentDB"
         self.container_name = "Summaries"
         
@@ -72,7 +72,6 @@ class DataService:
         self.container = self.database.get_container_client(self.container_name)
 
     def save_summary(self, summary: SentimentSummary):
-        # BUG FIX: used json package to directly convet into json, instead of using .dict() as it was causing error
         summary_dict = json.loads(json.dumps(summary, default=lambda o: o.__dict__))
         
         summary_dict['id'] = str(uuid.uuid4())

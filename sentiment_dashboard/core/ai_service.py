@@ -5,7 +5,7 @@ from azure.ai.textanalytics import TextAnalyticsClient
 from models.schemas import NewsArticle, SentimentSummary, AnalyzedArticle
 
 class AIService:
-    """ Connects to the live Azure Cognitive Services API. and sends data"""
+    """ function : connect to Azure Cognitive Services API. and send data"""
     
     def __init__(self):
         print("Initializing LIVE Azure AI Language Service...")
@@ -33,12 +33,10 @@ class AIService:
         
         for i in range(0, len(articles), 10):
             batch = articles[i:i+10]
-            
-            
             documents = [article.title for article in batch]
             
             try:
-                # azure con
+                # azure connection to the AI
                 results = self.client.analyze_sentiment(documents=documents)
                 
                 for idx, result in enumerate(results):
@@ -75,7 +73,7 @@ class AIService:
 
         
         num_articles = len(analyzed_articles)
-        if num_articles == 0:
+        if num_articles == 0: 
             return SentimentSummary(search_term=search_term, average_score=0, positive_score=0, neutral_score=0, negative_score=0, label="Neutral", articles=[])
 
         # Calculate Dashboard Averages

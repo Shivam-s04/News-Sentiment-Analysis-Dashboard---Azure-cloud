@@ -1,0 +1,4 @@
+-> feature to directly have a time series based search, where user can specify a time range and build a chart or dashboard based on that
+This would allow users to easily analyze trends and patterns over specific periods, making it easier to identify insights and make informed decisions. The time series search could be integrated with various data sources, such as databases, APIs, or even real-time streaming data, providing a comprehensive view of the data over time. Additionally, users could customize the visualizations and dashboards to suit their specific needs and preferences, enhancing the overall user experience.
+
+-> add history to allow users to check their previous searches.
